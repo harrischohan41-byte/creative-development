@@ -46,6 +46,7 @@ header.site-nav {
   justify-content: space-between;
   padding-top: 1rem;
   padding-bottom: 1rem;
+  padding-left: 3.5rem;
   max-width: 900px;
 }
 
