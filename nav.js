@@ -28,6 +28,14 @@
         { id: "gym-match-support", label: "Support", href: "gym-match/support.html" },
         { id: "gym-match-privacy", label: "Privacy Policy", href: "gym-match/privacy.html" }
       ]
+    },
+    {
+      id: "test-ai",
+      name: "Test AI",
+      pages: [
+        { id: "test-ai-support", label: "Support", href: "test-ai/support.html" },
+        { id: "test-ai-privacy", label: "Privacy Policy", href: "test-ai/privacy.html" }
+      ]
     }
   ];
 
